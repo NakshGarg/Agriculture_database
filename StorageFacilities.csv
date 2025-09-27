@@ -1,0 +1,51 @@
+StorageID,FacilityName,Location,CapacityTons,TemperatureControl,HumidityControl,AvailableSpaceTons
+1,"GreenField Warehouse","Delhi",500,Yes,Yes,120
+2,"Sunrise Silos","Mumbai",300,No,Yes,80
+3,"AgriStore Depot","Kolkata",400,Yes,No,150
+4,"Harvest Hub","Bengaluru",350,Yes,Yes,90
+5,"FarmSafe Storage","Chennai",250,No,No,60
+6,"CropVault","Delhi",600,Yes,Yes,200
+7,"GoldenGrain Silos","Mumbai",450,Yes,Yes,100
+8,"Eastern AgriDepot","Kolkata",500,No,Yes,180
+9,"Southern Storage Hub","Bengaluru",400,Yes,Yes,120
+10,"Tropical Farm Storage","Chennai",300,No,No,70
+11,"NorthField Storage","Jaipur",350,Yes,Yes,110
+12,"Riverbank Silos","Hyderabad",400,No,Yes,130
+13,"Sunfield Depot","Patna",300,Yes,No,90
+14,"HarvestLine Hub","Ahmedabad",500,Yes,Yes,150
+15,"AgroSafe Storage","Lucknow",450,No,No,100
+16,"GreenGrain Vault","Delhi",550,Yes,Yes,160
+17,"GoldenField Storage","Mumbai",400,Yes,Yes,90
+18,"EasternHarvest Hub","Kolkata",450,No,Yes,140
+19,"SouthernAgri Depot","Bengaluru",350,Yes,No,80
+20,"TropicalCrop Storage","Chennai",300,No,Yes,60
+21,"NorthVault","Jaipur",500,Yes,Yes,180
+22,"Riverfield Silos","Hyderabad",400,No,No,110
+23,"Sunrise Agri Depot","Patna",350,Yes,Yes,90
+24,"HarvestMax Hub","Ahmedabad",450,Yes,Yes,120
+25,"AgroStore Central","Lucknow",400,No,Yes,100
+26,"GreenLine Storage","Delhi",600,Yes,Yes,200
+27,"GoldenGrain Vault","Mumbai",450,Yes,No,150
+28,"EasternField Depot","Kolkata",500,No,Yes,170
+29,"SouthernCrop Hub","Bengaluru",400,Yes,Yes,130
+30,"TropicalHarvest Storage","Chennai",350,No,No,80
+31,"NorthField Vault","Jaipur",450,Yes,Yes,140
+32,"Riverbank Depot","Hyderabad",400,No,Yes,110
+33,"Sunfield Storage","Patna",350,Yes,No,90
+34,"HarvestLine Vault","Ahmedabad",500,Yes,Yes,160
+35,"AgroSafe Hub","Lucknow",450,No,No,120
+36,"GreenGrain Central","Delhi",550,Yes,Yes,180
+37,"GoldenField Depot","Mumbai",400,Yes,Yes,110
+38,"EasternHarvest Vault","Kolkata",450,No,Yes,150
+39,"SouthernAgri Hub","Bengaluru",350,Yes,No,100
+40,"TropicalCrop Vault","Chennai",300,No,Yes,70
+41,"NorthVault Central","Jaipur",500,Yes,Yes,190
+42,"Riverfield Storage","Hyderabad",400,No,No,120
+43,"Sunrise Agri Hub","Patna",350,Yes,Yes,95
+44,"HarvestMax Vault","Ahmedabad",450,Yes,Yes,130
+45,"AgroStore Hub","Lucknow",400,No,Yes,100
+46,"GreenLine Vault","Delhi",600,Yes,Yes,210
+47,"GoldenGrain Central","Mumbai",450,Yes,No,160
+48,"EasternField Hub","Kolkata",500,No,Yes,180
+49,"SouthernCrop Vault","Bengaluru",400,Yes,Yes,140
+50,"TropicalHarvest Hub","Chennai",350,No,No,85

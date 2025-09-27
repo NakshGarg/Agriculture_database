@@ -1,0 +1,51 @@
+user_id,name,role,location,contact,email
+1,Rajesh Kumar,farmer,Punjab,9876543210,rajesh.kumar@example.com
+2,Anita Sharma,buyer,Delhi,9812345678,anita.sharma@example.com
+3,Vikram Singh,farmer,Haryana,9876501234,vikram.singh@example.com
+4,Meena Patel,farmer,Gujarat,9823456789,meena.patel@example.com
+5,Rahul Verma,cooperative,Uttar Pradesh,9801234567,rahul.verma@example.com
+6,Pooja Rani,buyer,Mumbai,9865432109,pooja.rani@example.com
+7,Arjun Yadav,farmer,Bihar,9876123450,arjun.yadav@example.com
+8,Kavita Joshi,farmer,Uttarakhand,9834567890,kavita.joshi@example.com
+9,Deepak Gupta,farmer,Madhya Pradesh,9890123456,deepak.gupta@example.com
+10,Sunita Rao,buyer,Bangalore,9845678901,sunita.rao@example.com
+11,Manoj Tiwari,farmer,Uttar Pradesh,9811122233,manoj.tiwari@example.com
+12,Ayesha Khan,buyer,Hyderabad,9877001122,ayesha.khan@example.com
+13,Harbhajan Singh,farmer,Punjab,9822223344,harbhajan.singh@example.com
+14,Sapna Mehra,farmer,Rajasthan,9855511223,sapna.mehra@example.com
+15,Rakesh Malhotra,cooperative,Maharashtra,9811992233,rakesh.malhotra@example.com
+16,Geeta Sharma,farmer,Himachal Pradesh,9866112233,geeta.sharma@example.com
+17,Imran Ali,buyer,Kolkata,9877334455,imran.ali@example.com
+18,Vidya Devi,farmer,Haryana,9823344556,vidya.devi@example.com
+19,Shyam Sunder,farmer,Chhattisgarh,9877888990,shyam.sunder@example.com
+20,Neha Agarwal,buyer,Chennai,9844005566,neha.agarwal@example.com
+21,Prakash Thakur,farmer,Jharkhand,9876543321,prakash.thakur@example.com
+22,Sonal Jain,buyer,Jaipur,9823456678,sonal.jain@example.com
+23,Omkar Naik,farmer,Goa,9832109876,omkar.naik@example.com
+24,Rekha Pillai,farmer,Kerala,9876123987,rekha.pillai@example.com
+25,Amitabh Roy,cooperative,West Bengal,9812334455,amitabh.roy@example.com
+26,Seema Reddy,buyer,Hyderabad,9899001122,seema.reddy@example.com
+27,Baldev Singh,farmer,Punjab,9844332211,baldev.singh@example.com
+28,Nandita Kapoor,farmer,Haryana,9822003344,nandita.kapoor@example.com
+29,Suresh Iyer,farmer,Tamil Nadu,9877554433,suresh.iyer@example.com
+30,Priyanka Das,buyer,Assam,9811445566,priyanka.das@example.com
+31,Anil Chauhan,farmer,Uttar Pradesh,9866557788,anil.chauhan@example.com
+32,Latika Bansal,farmer,Delhi,9833661122,latika.bansal@example.com
+33,Rajiv Nair,cooperative,Kerala,9844556677,rajiv.nair@example.com
+34,Shalini Gupta,buyer,Gurgaon,9822993344,shalini.gupta@example.com
+35,Krishna Yadav,farmer,Bihar,9877002233,krishna.yadav@example.com
+36,Meera Saxena,farmer,Madhya Pradesh,9811889900,meera.saxena@example.com
+37,Faizal Khan,farmer,Uttar Pradesh,9823332211,faizal.khan@example.com
+38,Divya Arora,buyer,Mumbai,9876122234,divya.arora@example.com
+39,Sanjay Rathore,farmer,Rajasthan,9866004433,sanjay.rathore@example.com
+40,Aarti Chawla,farmer,Gujarat,9845778899,aarti.chawla@example.com
+41,Vivek Ahuja,cooperative,Delhi,9811223344,vivek.ahuja@example.com
+42,Ritika Sharma,buyer,Chandigarh,9876554432,ritika.sharma@example.com
+43,Naresh Patil,farmer,Maharashtra,9832112234,naresh.patil@example.com
+44,Swati Kulkarni,farmer,Karnataka,9845667788,swati.kulkarni@example.com
+45,Jitendra Rawat,farmer,Uttarakhand,9877004455,jitendra.rawat@example.com
+46,Nisha Sethi,buyer,Noida,9812334456,nisha.sethi@example.com
+47,Lokesh Mishra,farmer,Uttar Pradesh,9822773344,lokesh.mishra@example.com
+48,Pallavi Verma,farmer,Madhya Pradesh,9866772211,pallavi.verma@example.com
+49,Sameer Qureshi,farmer,Haryana,9877551122,sameer.qureshi@example.com
+50,Tanvi Kapoor,buyer,Delhi,9811998877,tanvi.kapoor@example.com

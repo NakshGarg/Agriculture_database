@@ -1,0 +1,51 @@
+CropID,CropName,Season,Quantity_Tonnes,Quality_Grade,Fertilizer_Used
+101,Wheat,Rabi,250,A,Urea
+102,Rice,Kharif,400,B,DAP
+103,Maize,Kharif,150,A,Compost
+104,Sugarcane,Annual,600,A+,Urea+DAP
+105,Pulses,Rabi,180,B,Organic
+106,Potato,Rabi,320,A,Urea
+107,Onion,Kharif,220,A-,Compost
+108,Cotton,Kharif,270,B+,Pesticide Controlled
+109,Mustard,Rabi,140,A,Organic
+110,Tomato,All Season,200,A,Organic Compost
+111,Barley,Rabi,190,B,Urea
+112,Bajra,Kharif,210,A,DAP
+113,Jowar,Kharif,170,B+,Compost
+114,Gram,Rabi,130,A-,Organic
+115,Arhar (Tur),Kharif,160,A,DAP
+116,Moong,Kharif,140,B,Compost
+117,Urad,Kharif,120,A-,Organic
+118,Masoor,Rabi,150,B+,Urea
+119,Groundnut,Kharif,260,A,Organic
+120,Soybean,Kharif,280,A+,DAP
+121,Sunflower,Rabi,200,B,Urea
+122,Jute,Kharif,300,A-,Organic
+123,Tea,Annual,500,A,Compost
+124,Coffee,Annual,450,A-,Organic
+125,Cabbage,Rabi,180,A,Urea
+126,Cauliflower,Rabi,160,B+,Organic
+127,Spinach,All Season,110,A-,Compost
+128,Apple,Rabi,320,A,Organic
+129,Mango,Kharif,500,A+,Organic Compost
+130,Banana,All Season,480,B,Urea+DAP
+131,Orange,Rabi,350,A-,DAP
+132,Grapes,Rabi,300,A,Organic
+133,Papaya,All Season,270,B+,Organic
+134,Pomegranate,Rabi,240,A,Urea
+135,Guava,All Season,200,A-,Compost
+136,Litchi,Kharif,210,B,Urea
+137,Peas,Rabi,180,A,Organic
+138,Carrot,Rabi,160,A-,Compost
+139,Brinjal (Eggplant),Kharif,190,B+,Urea
+140,Ladyfinger (Okra),Kharif,150,A,Organic
+141,Capsicum,Kharif,140,A-,DAP
+142,Chillies,Kharif,130,B,Urea
+143,Cardamom,Annual,70,A+,Organic
+144,Cashew Nut,Annual,95,A-,Organic Compost
+145,Coconut,Annual,400,A,Urea
+146,Turmeric,Kharif,250,B+,Compost
+147,Ginger,Kharif,180,A-,Organic
+148,Apple Gourd (Tinda),Kharif,120,A,Organic Compost
+149,Bottle Gourd,Kharif,130,B,Urea
+150,Watermelon,Kharif,300,A+,Organic

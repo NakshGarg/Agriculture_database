@@ -1,0 +1,51 @@
+RateID,CropID,CropName,Market,Price_Per_Quintal,Date
+501,101,Wheat,Delhi,2400,2025-09-20
+502,102,Rice,Mumbai,2800,2025-09-20
+503,103,Maize,Kolkata,1900,2025-09-20
+504,104,Sugarcane,Lucknow,320,2025-09-20
+505,105,Pulses,Jaipur,5600,2025-09-20
+506,106,Potato,Agra,1600,2025-09-20
+507,107,Onion,Nashik,1800,2025-09-20
+508,108,Cotton,Ahmedabad,7200,2025-09-20
+509,109,Mustard,Chandigarh,5100,2025-09-20
+510,110,Tomato,Bengaluru,1500,2025-09-20
+511,111,Barley,Kanpur,2200,2025-09-20
+512,112,Bajra,Bikaner,2100,2025-09-20
+513,113,Jowar,Indore,2000,2025-09-20
+514,114,Gram,Patna,5200,2025-09-20
+515,115,Arhar (Tur),Nagpur,6500,2025-09-20
+516,116,Moong,Udaipur,7200,2025-09-20
+517,117,Urad,Varanasi,6800,2025-09-20
+518,118,Masoor,Bhopal,5400,2025-09-20
+519,119,Groundnut,Rajkot,5600,2025-09-20
+520,120,Soybean,Gwalior,4700,2025-09-20
+521,121,Sunflower,Jaipur,6200,2025-09-20
+522,122,Jute,Kolkata,4800,2025-09-20
+523,123,Tea,Assam,15000,2025-09-20
+524,124,Coffee,Coorg,20000,2025-09-20
+525,125,Cabbage,Shimla,1400,2025-09-20
+526,126,Cauliflower,Lucknow,1600,2025-09-20
+527,127,Spinach,Delhi,1200,2025-09-20
+528,128,Apple,Shimla,9000,2025-09-20
+529,129,Mango,Hyderabad,7000,2025-09-20
+530,130,Banana,Chennai,3200,2025-09-20
+531,131,Orange,Nagpur,6000,2025-09-20
+532,132,Grapes,Nashik,8500,2025-09-20
+533,133,Papaya,Bengaluru,4000,2025-09-20
+534,134,Pomegranate,Pune,10000,2025-09-20
+535,135,Guava,Allahabad,3500,2025-09-20
+536,136,Litchi,Muzaffarpur,8000,2025-09-20
+537,137,Peas,Kanpur,4500,2025-09-20
+538,138,Carrot,Delhi,2000,2025-09-20
+539,139,Brinjal (Eggplant),Lucknow,1800,2025-09-20
+540,140,Ladyfinger (Okra),Patna,2200,2025-09-20
+541,141,Capsicum,Bengaluru,3000,2025-09-20
+542,142,Chillies,Guntur,12000,2025-09-20
+543,143,Cardamom,Idukki,80000,2025-09-20
+544,144,Cashew Nut,Kollam,95000,2025-09-20
+545,145,Coconut,Kerala,12000,2025-09-20
+546,146,Turmeric,Erode,11000,2025-09-20
+547,147,Ginger,Sikkim,9500,2025-09-20
+548,148,Apple Gourd (Tinda),Delhi,1700,2025-09-20
+549,149,Bottle Gourd,Patna,1600,2025-09-20
+550,150,Watermelon,Hyderabad,3000,2025-09-20

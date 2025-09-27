@@ -1,0 +1,21 @@
+AlertID,Region,Alert_Type,Severity,Message,Date
+601,Delhi,Heatwave,High,Temperature expected above 44°C,2025-09-21
+602,Mumbai,Heavy Rain,Medium,Heavy rainfall likely to disrupt transport,2025-09-21
+603,Lucknow,Flood,High,River levels rising above danger mark,2025-09-21
+604,Chennai,Cyclone,Severe,Cyclone warning issued - coastal evacuation advised,2025-09-21
+605,Jaipur,Drought,Medium,Water shortage reported - conserve usage,2025-09-21
+606,Bengaluru,Thunderstorm,Medium,Severe thunderstorms expected in evening,2025-09-21
+607,Ahmedabad,Heatwave,High,Daytime temperature expected above 43°C,2025-09-21
+608,Kolkata,Heavy Rain,High,Red alert for continuous rainfall and waterlogging,2025-09-21
+609,Agra,Hailstorm,Medium,Hailstorm warning issued for rural areas,2025-09-21
+610,Chandigarh,Fog,Low,Reduced visibility in morning hours,2025-09-21
+611,Patna,Flood,High,Ganga water level above danger mark - villages at risk,2025-09-22
+612,Hyderabad,Heatwave,Medium,Daytime temperatures expected around 41°C,2025-09-22
+613,Bhopal,Dust Storm,Medium,Strong winds with dust expected in afternoon,2025-09-22
+614,Varanasi,Thunderstorm,High,Severe thunderstorm warning with lightning risk,2025-09-22
+615,Surat,Heavy Rain,Medium,Chances of waterlogging in low-lying areas,2025-09-22
+616,Indore,Hailstorm,Low,Scattered hail showers possible in outskirts,2025-09-23
+617,Nagpur,Drought,High,Extended dry spell - crops at risk,2025-09-23
+618,Shimla,Landslide,High,Landslide risk due to continuous rainfall,2025-09-23
+619,Srinagar,Snowfall,Severe,Heavy snowfall warning issued - travel disruption likely,2025-12-15
+620,Goa,Cyclone,Severe,Cyclone expected to make landfall on western coast,2025-11-05

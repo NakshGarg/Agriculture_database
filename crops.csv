@@ -1,0 +1,51 @@
+crop_id,crop_name,category,season
+1,Wheat,Cereal,Rabi
+2,Rice,Cereal,Kharif
+3,Maize,Cereal,Kharif
+4,Barley,Cereal,Rabi
+5,Bajra,Cereal,Kharif
+6,Jowar,Cereal,Kharif
+7,Gram,Pulse,Rabi
+8,Arhar (Tur),Pulse,Kharif
+9,Moong,Pulse,Kharif
+10,Urad,Pulse,Kharif
+11,Masoor,Pulse,Rabi
+12,Groundnut,Oilseed,Kharif
+13,Mustard,Oilseed,Rabi
+14,Soybean,Oilseed,Kharif
+15,Sunflower,Oilseed,Rabi
+16,Cotton,Commercial,Kharif
+17,Jute,Commercial,Kharif
+18,Sugarcane,Commercial,Annual
+19,Tea,Commercial,Annual
+20,Coffee,Commercial,Annual
+21,Potato,Vegetable,Rabi
+22,Onion,Vegetable,Rabi
+23,Tomato,Vegetable,Kharif
+24,Cabbage,Vegetable,Rabi
+25,Cauliflower,Vegetable,Rabi
+26,Spinach,Vegetable,All Season
+27,Apple,Fruit,Rabi
+28,Mango,Fruit,Kharif
+29,Banana,Fruit,All Season
+30,Orange,Fruit,Rabi
+31,Grapes,Fruit,Rabi
+32,Papaya,Fruit,All Season
+33,Pomegranate,Fruit,Rabi
+34,Guava,Fruit,All Season
+35,Litchi,Fruit,Kharif
+36,Peas,Vegetable,Rabi
+37,Carrot,Vegetable,Rabi
+38,Brinjal (Eggplant),Vegetable,Kharif
+39,Ladyfinger (Okra),Vegetable,Kharif
+40,Capsicum,Vegetable,Kharif
+41,Chillies,Commercial,Kharif
+42,Cardamom,Commercial,Annual
+43,Cashew Nut,Commercial,Annual
+44,Coconut,Commercial,Annual
+45,Turmeric,Commercial,Kharif
+46,Ginger,Commercial,Kharif
+47,Apple Gourd (Tinda),Vegetable,Kharif
+48,Bottle Gourd,Vegetable,Kharif
+49,Watermelon,Fruit,Kharif
+50,Muskmelon,Fruit,Kharif
